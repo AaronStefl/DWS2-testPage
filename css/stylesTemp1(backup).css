@@ -1,0 +1,148 @@
+
+
+body {
+	font-family: Helvica, Arial, sans-serif;
+	font-size: 1em;
+	color: blue;
+	background-color: rgb(177, 178, 186);
+	line-height: 1.2em;
+	}
+	
+/*---------Header---------*/
+header {
+	text-align: center;
+	width: 100%;
+	background-color:black;
+	/* max-height:450px; */
+	color: yellow;
+	width: 100%;
+	margin: auto; 
+	
+	}
+	
+/*-------Navigation--------*/	
+	
+nav  ul >li {
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+    display: inline;
+	list-style-type: none;
+	}
+	
+#nav-main {
+	width: 60%;
+	font-size: 1.5em;
+	border-top: 2px solid rgb(92, 92, 33);
+	line-height: 1.4em;
+	margin: 3% auto;
+		
+}	
+
+#logo {
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+
+a:link {
+	color: yellow;
+	text-decoration: none;
+	} 
+	
+a:visited {
+	color: yellow;
+	text-decoration: none;
+	}
+	
+a:hover {
+	color: red;
+	text-decoration: none;
+	}
+	
+a:active {
+	color: yellow;
+	text-decoration: none;
+	}
+
+
+
+h1 { 
+	font-family: "Architects Daughter", Georgia, sans-serif;
+	font-size: 3.5em;
+	font-weight: normal;
+	font-style: oblique;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;	
+	}	
+
+
+	img {
+	width: 200px;
+	/* height: 200px; */
+}
+
+
+/*--------------------Body--------*/
+
+body {
+
+	font-family: Helvica, Arial, sans-serif;
+	font-size: 1em;
+	color: black;
+	background-color: rgb(177, 178, 186);
+	line-height: 1.2em;
+}
+
+
+.container {
+	width: 80%;
+	max-width: 1220px;
+	margin: 0 auto;
+} 
+
+
+#news {
+	width: 300px;
+	float: right;
+	
+	padding: 10px;
+	margin: 10px;
+	
+}
+
+#about {
+	margin: 10px;
+	padding: 10px;
+}
+
+#column1 {
+	width: 300px;
+	float: left;
+	clear: both;
+	padding: 10px;
+	margin: 10px;
+	border-right: 1px dotted black;
+}
+
+#column2 {
+	width: 300px;
+	float: left;
+	
+	padding: 10px;
+	margin: 10px;
+	border-right: 1px dotted black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* End */

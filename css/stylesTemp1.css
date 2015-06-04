@@ -1,0 +1,171 @@
+
+
+body {
+	font-family: Helvica, Arial, sans-serif;
+	font-size: 1em;
+	color: blue;
+	background-color: rgb(177, 178, 186);
+	line-height: 1.2em;
+}
+	
+/*---------Header---------*/
+header {
+	text-align: center;
+	width: 100%;
+	background-color:black;
+	/* max-height:450px; */
+	color: yellow;
+	margin: 0 auto; 
+}
+
+#steelers-football {
+	line-height: 1em;
+}
+	
+/*-------Navigation--------*/	
+	
+nav  ul >li {
+	padding: 0.8196721%;
+	margin: 0.8196721%;
+	text-align: center;
+    display: inline-block;
+	list-style-type: none;
+}
+	
+#nav-main {
+	width: 60%;
+	font-size: 1.5em;
+	border-top: 1px solid rgb(92, 92, 33); /*-- 2px --*/
+	line-height: 1.4em;
+	margin: 0.8196721% auto; /*-- 10px --*/
+		
+}	
+
+#logo {
+	/* width: 200px;
+	height: 200px; */
+	margin: 1.6393443%px; /*-- 20px --*/
+}
+
+a:link {
+	color: yellow;
+	text-decoration: none;
+} 
+	
+a:visited {
+	color: yellow;
+	text-decoration: none;
+}
+	
+a:hover {
+	color: red;
+	text-decoration: none;
+}
+	
+a:active {
+	color: yellow;
+	text-decoration: none;
+}
+
+
+
+h1 { 
+	font-family: "Architects Daughter", Georgia, sans-serif;
+	font-size: 3.5em;
+	font-weight: normal;
+	font-style: oblique;
+	text-transform: uppercase;
+	letter-spacing: 0.5em;	
+}	
+
+
+	img {
+	width: 16.3934426%; /*-- 20px --*/
+	
+}
+
+
+/*--------------------Body--------*/
+
+body {
+
+	font-family: Helvica, Arial, sans-serif;
+	font-size: 1em;
+	color: black;
+	background-color: rgb(177, 178, 186);
+	line-height: 1.2em;
+}
+
+
+.container {
+	width: 80%;
+	max-width: 1220px;
+	margin: 0 auto;
+} 
+
+
+#news {
+	/* width: 29.2666667%; */ /*-- 300px --*/
+	clear:both;
+	width: 18.75;/*-- 180px --*/
+	padding: 0.8196721%; /*-- 10px --*/
+	margin: 0.8196721%; /*-- 10px --*/	
+}
+
+#about {
+	margin: 0.8196721%; /*-- 10px --*/
+	padding: 0.8196721%; /*-- 10px --*/
+}
+
+#column1 {
+	/* width: 29.2666667%; */ /*-- 300px --*/
+	width: 41.6666667%; /*-- 400px --*/
+	float: left;
+	clear: both;
+	padding: 0.8196721%; /*-- 10px --*/
+	margin: 0.8196721%; /*-- 10px --*/
+	border-right: 1px dotted black; /*-- 1px --*/
+}
+
+#column2 {
+	/* width: 29.2666667%; */ /*-- 300px --*/
+	width: 41.6666667%; /*-- 400px --*/
+	float: left;
+	
+	padding: 0.8196721%; /*-- 10px --*/
+	margin: 0.8196721%; /*-- 10px --*/
+	border-right: 0.1041667% dotted black; /*-- 1px --*/
+}
+
+#news {
+	/* width: 29.2666667%; */ /*-- 300px --*/
+	float: right;
+	clear:both;
+	width: 41.6666667;/*-- 180px --*/
+	padding: 0.8196721%; /*-- 10px --*/
+	margin: 0.8196721%; /*-- 10px --*/	
+}
+
+
+
+footer {
+	clear: both;
+	text-align: center;
+	width: 100%;
+	height: 6.557377%;
+	background-color:black;
+	color: yellow;
+	margin: 0 auto;
+	padding-top: 0.8196721%;	
+}
+
+
+
+
+
+
+
+
+
+
+/* End */
